@@ -91,7 +91,7 @@ main .main-input-container{
     align-items: center;
 }
 
-main .main-input-container_hover{
+main .main-input-container:hover{
     box-shadow: 0 1px 6px 0 #20212447;
 }
 
