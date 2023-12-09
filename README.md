@@ -13,6 +13,7 @@ En este proyecto utilizamos eleditor de código Visual Studio Code y los lenguaj
 </ol>
 
 ### Vista Previa
-![image](https://github.com/KOlvera72/google-clone/assets/151889963/1b18ada3-5159-488e-b2f3-8de741b06508)
+![image](https://github.com/KOlvera72/google-clone/assets/151889963/c54337e6-ddc5-4bee-9b2c-80dcfbe75ef6)
+
 
 
